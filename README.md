@@ -54,5 +54,4 @@ It replicates a real-world bank-style KYC flow including document upload, OCR ex
 
 ---
 
-## 📁 Project Structure
 
