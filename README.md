@@ -1,4 +1,4 @@
-# Digital KYC Prototype – Streamlit Application
+# Digital KYC Prototype (Streamlit Application):
 
 This project is a fully interactive Digital KYC (Know Your Customer) onboarding system built using Streamlit, OCR (Tesseract), and Python.  
 It replicates a real-world bank-style KYC flow including document upload, OCR extraction, OTP verification, photo verification, and final confirmation.
